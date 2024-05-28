@@ -1,4 +1,4 @@
 install opencv and mediapipe by:
 
 `pip install opencv-python`
-`pip install mediapip`
+`pip install mediapipe`
